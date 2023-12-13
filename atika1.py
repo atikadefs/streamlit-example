@@ -13,9 +13,6 @@ def main():
     if selected_menu == 'Beranda':
         st.write('Selamat datang di halaman Beranda!')
         # Tambahkan konten atau fitur untuk halaman Beranda di sini
-if __name__ == "__main__":
-    main()
-
     elif selected_menu == 'Profil':
         st.write('Ini adalah halaman Profil!')
         # Tambahkan konten atau fitur untuk halaman Profil di sini
