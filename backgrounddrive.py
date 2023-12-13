@@ -2,7 +2,7 @@ import streamlit as st
 
 def main():
     # URL gambar dari Google Drive yang dapat diakses publik
-    url_gambar = 'https://drive.google.com/file/d/1gc9W5DlQmEegj9RkJi_l44V1TJ8ezQUd/view?usp=sharing'  # Ganti dengan URL gambar Anda
+    url_gambar = 'https://drive.google.com/file/d/194T9rZWYIn1mIopsmOYfGRyAGNgKeqAe/view?usp=sharing'  # Ganti dengan URL gambar Anda
 
     # Menambahkan CSS untuk mengatur gambar sebagai background
     st.markdown(
