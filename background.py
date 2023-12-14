@@ -6,7 +6,7 @@ def main():
         """
         <style>
         body {
-            background-image: url('https://www.pexels.com/id-id/foto/foto-objek-langit-dalam-816608/'); /* Ganti URL dengan URL gambar Anda */
+            background-image: url('https://github.com/atikadefs/streamlit-example/blob/master/Cone%20Nebula%20(NGC2264).jpeg/'); /* Ganti URL dengan URL gambar Anda */
             background-size: cover;
         }
         </style>
