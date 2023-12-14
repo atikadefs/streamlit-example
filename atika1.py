@@ -1,5 +1,13 @@
 import streamlit as st
-
+#Menggunakan HTML dan CSS kustom untuk mengatur gambar latar belakang
+page_bg_img = '''
+<style>
+.stApp {
+    background-image: url("https://raw.githubusercontent.com/enjunaja/belajar-vektor/main/gambar/background.png");
+    background-size: cover;
+}
+</style>
+'''
 def main():
     st.title('Aplikasi Menu Sederhana')
 
