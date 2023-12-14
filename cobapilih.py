@@ -5,7 +5,7 @@ pilihan = st.radio("Pilih satu:", ("Satu", "Dua"))
 
 if pilihan == "Satu":
     # Menampilkan gambar jika 'Satu' dipilih
-    st.image('https://github.com/atikadefs/streamlit-example/blob/master/Cone%20Nebula%20(NGC2264).jpeg', caption='Gambar yang ditampilkan')
+    st.image('https://github.com/atikadefs/streamlit-example/blob/master/Tambahkan%20sedikit%20teks%20isi.png', caption='Gambar yang ditampilkan')
 
 elif pilihan == "Dua":
     # Menampilkan video jika 'Dua' dipilih
