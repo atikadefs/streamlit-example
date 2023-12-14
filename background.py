@@ -5,7 +5,7 @@ def main():
 page_bg_img = '''
 <style>
 .stApp {
-    background-image: url("https://raw.githubusercontent.com/enjunaja/belajar-vektor/main/gambar/background.png");
+    background-image: url("https://github.com/atikadefs/streamlit-example/blob/master/Cone%20Nebula%20(NGC2264).jpeg");
     background-size: cover;
 }
 </style>
